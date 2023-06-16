@@ -40,7 +40,7 @@
 ---
 
 
-## 我的Alist仓库，用于管理通知消息
+## 我的Alist仓库，用于管理通知消息，如有侵权请告知删除
 - 来自于[Alist](https://github.com/alist-org/alist)
 
 ## 功能
