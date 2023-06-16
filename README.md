@@ -104,22 +104,6 @@
 
 一般问题请到[讨论论坛](https://github.com/Xhofe/alist/discussions) ，**issue仅针对错误报告和功能请求。**
 
-## 赞助
-
-AList 是一个开源软件，如果你碰巧喜欢这个项目，并希望我继续下去，请考虑赞助我或提供一个单一的捐款！感谢所有的爱和支持：https://alist.nn.ci/zh/guide/sponsor.html
-
-### 特别赞助
-
-- [亚洲云 - 高防服务器|服务器租用|福州高防|广东电信|香港服务器|美国服务器|海外服务器 - 国内靠谱的企业级云计算服务提供商](https://www.asiayun.com/aff/QQCOOQKZ) (国内API服务器赞助)
-- [找资源 - 阿里云盘资源搜索引擎](https://zhaoziyuan.la/)
-- [KinhDown 百度云盘不限速下载！永久免费！已稳定运行3年！非常可靠！Q群 -> 786799372](https://kinhdown.com)
-- [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)
-
-## 贡献者
-
-Thanks goes to these wonderful people:
-
-[![Contributors](http://contributors.nn.ci/api?repo=alist-org/alist&repo=alist-org/alist-web&repo=alist-org/docs)](https://github.com/alist-org/alist/graphs/contributors)
 
 ## 许可
 
@@ -130,8 +114,6 @@ Thanks goes to these wonderful people:
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
 - 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请通过[邮件](mailto:i@nn.ci)与我联系，会及时处理。
+- 如有侵权，请通过[邮件](mailto:1185877602@qq.com)与我联系，会及时处理。
 
 ---
-
-> [@博客](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@Telegram群](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
